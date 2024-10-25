@@ -1,0 +1,134 @@
+{
+    "total_articles": 4,
+    "articles": [
+        {
+            "title": "Second € 20 Mio Fine for Clearview AI",
+            "text": "€20 million fine for Clearview AI in Greece\n\nThe Greek data protection authority has fined the company Clearview AI €20 million. The company that sells facial recognition software to law enforcement agencies in the U.S. is no longer allowed to process biometric data on individuals in Greece and must delete all existing data.\n\nComplaints in five countries. An alliance of organizations, including noyb, Privacy International (PI), Hermes Center, and Homo Digitalis, filed a series of complaints against Clearview AI Inc. in May 2021. The company claims to have \"the largest known database of more than 10 billion facial images\" and is aiming to reach 100 billion within the next year to make almost every person worldwide identifiable. The images for this come from social media accounts and other online sources. Complaints have been filed with data protection authorities in France, Austria, Italy, Greece and the United Kingdom.\n\nClear ban. The ruling is clear: the GDPR is applicable because Clearview AI uses its software to monitor the behavior of people in Greece, even though the company is based in the U.S. and does not offer its services in Greece or the EU. The data processing had no legal basis and there is a lack of transparency concerning the processing operations. Collecting images for a biometric search engine is illegal. Not only would Clearview now have to delete all hitherto collected images of Greek citizens, but also the biometric information that is needed to search for a specific face. The Greek authority also ordered Clearview to appoint a representative in the EU, to enable EU citizens to exercise their rights more easily and so regulators have a contact person in the EU.\n\nThings are getting tight for Clearview. This decision follows the decision by the French authority on Clearview in December 2021, as well as the decision by the Italian DPA: also here, the authority prohibited the collection and processing of data in Italy. We expect a similar decision in Austria soon.",
+            "url": "https://noyb.eu/en/second-eu-20-mio-fine-clearview-ai",
+            "authors": [],
+            "publish_date": null,
+            "keywords": [
+                "fine",
+                "20",
+                "authority",
+                "greece",
+                "company",
+                "greek",
+                "data",
+                "second",
+                "ai",
+                "mio",
+                "processing",
+                "clearview",
+                "images",
+                "decision"
+            ],
+            "summary": "€20 million fine for Clearview AI in GreeceThe Greek data protection authority has fined the company Clearview AI €20 million.\nAn alliance of organizations, including noyb, Privacy International (PI), Hermes Center, and Homo Digitalis, filed a series of complaints against Clearview AI Inc. in May 2021.\nThe data processing had no legal basis and there is a lack of transparency concerning the processing operations.\nNot only would Clearview now have to delete all hitherto collected images of Greek citizens, but also the biometric information that is needed to search for a specific face.\nThe Greek authority also ordered Clearview to appoint a representative in the EU, to enable EU citizens to exercise their rights more easily and so regulators have a contact person in the EU.",
+            "metadata": {
+                "source_domain": "noyb.eu",
+                "scrape_date": "2024-10-25T12:40:30.711776",
+                "content_type": "activism_content",
+                "extraction_method": "newspaper3k",
+                "content_length": 2014
+            }
+        },
+        {
+            "title": "About ClearviewAI’s mockery of human rights, those fighting it, and the need for EU to intervene",
+            "text": "How did Clearview AI build a database of 10 billion images?\n\nClearview AI gathers data automatically, through a process called (social media ) online scraping. The specific way Clearview AI gathers its data enables biometric mass surveillance, being a practice also adopted by actors such as PimsEyes among others.\n\nThe company scrapes the pictures of our faces from the entire internet – including social media applications – and stores them on its servers. Following the gathering and storage of data through online scraping, Clearview AI managed to create a database of 10 BILLION images. Now, the company uses an algorithm that matches a given face to all the faces in its 10B database: (virtually) everyone and anyone.\n\nCreepily enough, this database can be available to any company, law enforcement agency and government that can pay for access.\n\nThis will go on, as long as we don’t put a stop to Clearview AI and its peers. Reclaim Your Face partners and other organisations have taken several actions to limit Clearview AI in France, Italy, Germany, Belgium, Sweden, the United Kingdom, Australia and Canada.\n\nIn several EU countries many activists, Data Protection Authorities and watchdogs took action.\n\nIn May 2021, a coalition of organisations (including noyb, Privacy International (PI), Hermes Center and Homo Digitalis) filed a series of submissions against Clearview AI, Inc. The complaints were submitted to data protection regulators in France, Austria, Italy, Greece and the United Kingdom.\n\nHere are some of the Data Protection Authorities and watchdogs’ decisions:\n\nFrance\n\nFollowing Reclaim Your Face Partner’s Privacy International and individual complaints about Clearview AI’s facial recognition software, the French data protection authority (‘CNIL’) d ecided in December 2021 that Clearview AI should cease collecting and using data from data subjects in France.\n\nItaly\n\nAfter individuals (including Riccardo Coluccini) and Reclaim Your Face organisations (among them Hermes Centre for Transparency and Digital Human Rights and Privacy Network) filed a complaint against Clearview AI, Italian’s data privacy watchdog (Garante per la Protezione dei dati personali) fined Clearview AI the highest amount possible: 20 million Euros. The decision includes an order to erase the data relating to individuals in Italy and banned any further collection and processing of the data through the company’s facial recognition system.\n\nGermany\n\nFollowing an individual complaint from Reclaim Your Face activist Matthias Marx, the Hamburg Data Protection Agency ordered Clearview to delete the mathematical hash representing a user’s profile. As a result, the Hamburg DPA deemed Clearview AI’s biometric photo database illegal in the EU . However, Clearview AI has only deleted Matthias Marx’s data and the DPA’s case is not yet closed.\n\nBelgium\n\nWhile the use of this software has never been legal in Belgium and after denying its deployment, the Ministry of the Interior confirmed in October 2021 that the Belgian Federal Police used the services of Clearview AI. This was derived from a trial period the company provided to the Europol Task Force on Victim Identification. Albeit admitting the use, the Ministry of Interior also confirmed and emphasized that Belgian law does not allow this. This was later confirmed by the Belgian police watchdog ruling that stated its use was unlawful.\n\nSweden\n\nIn February 2021, the Swedish data protection authority (IMY), decided that a Swedish local police’s use of Clearview’s technology involved unlawfully processed biometric data for facial recognition. The DPA also pointed the Police failed to conduct a data protection impact assessment. As such, the authority fined the local police authority €250,000 and ordered to inform people whose personal data was sent to the company.\n\nClearview AI is in trouble outside of the European Union too\n\nUnited Kingdom\n\nOn 27 May 2021, Privacy International (PI) filed complaints against Clearview AI with the UK’s independent regulator for data protection and information rights law and Information Commissioner’s Office (ICO). Jointly with OAIC, which regulates the Australian Privacy Act, conducted a joint investigation on Clearview AI from 2020. Last year, ICO announced its provisional intent to impose a potential fine of over £17 million based on Clearview’s failure to comply with UK data protection laws.\n\nIn May 2022, ICO issued a fine to Clearview AI Inc of £7,552,800 and an enforcement notice, ordering the company to stop obtaining and using the personal data of UK residents that is publicly available on the internet, and to delete the data of UK residents from its systems.\n\nAustralia\n\nOn the other hand, OAIC has reached a decision and ordered the company to stop collecting facial biometrics and biometric templates from people in Australian territory; and to destroy all existing images and templates that it holds.\n\nCanada\n\nCanadian authorities were unequivocal in ruling that Clearview AI was a violation of their citizen’s right to privacy, and furthermore, that this use constitutes mass surveillance. Their statement highlights the clear link between ClearviewAI and biometric mass surveillance and assumes that all citizens are suspects of crime.\n\nWar and Clearview AI\n\nIn an already distressing war context, Ukraine’s defence ministry is using Clearview AI’s facial recognition technology for allegedly vetting people at checkpoints, unmasking Russian assailants, combating misinformation and identifying the dead.",
+            "url": "https://edri.org/our-work/we-need-to-talk-about-clearview-ai/",
+            "authors": [
+                "What Happens When Clearview Ai Decides To Offer Their Services To Military Forces With Whom We Disagree"
+            ],
+            "publish_date": null,
+            "keywords": [
+                "protection",
+                "privacy",
+                "face",
+                "database",
+                "biometric",
+                "eu",
+                "mockery",
+                "fighting",
+                "company",
+                "facial",
+                "need",
+                "data",
+                "intervene",
+                "rights",
+                "human",
+                "ai",
+                "clearview",
+                "clearviewais"
+            ],
+            "summary": "Following the gathering and storage of data through online scraping, Clearview AI managed to create a database of 10 BILLION images.\nThis will go on, as long as we don’t put a stop to Clearview AI and its peers.\nIn several EU countries many activists, Data Protection Authorities and watchdogs took action.\nThe complaints were submitted to data protection regulators in France, Austria, Italy, Greece and the United Kingdom.\nThe DPA also pointed the Police failed to conduct a data protection impact assessment.",
+            "metadata": {
+                "source_domain": "edri.org",
+                "scrape_date": "2024-10-25T12:40:30.849058",
+                "content_type": "activism_content",
+                "extraction_method": "newspaper3k",
+                "content_length": 5542
+            }
+        },
+        {
+            "title": "Challenge against Clearview AI in Europe",
+            "text": "Information Commissioner's Office (ICO) (UK)\n\nCommission Nationale de l'Informatique et des Libertés (CNIL) (France)\n\nGarante per la protezione dei dati personali (Italy)\n\nΑρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα (Hellenic Data Protection Authority) (Greece)\n\nDatenschutzbehörde (Austria)\n\nOn 27 May 2021, Privacy International (PI) filed complaints against Clearview AI with the UK and French data protection authorities (ICO and CNIL). Simultaneously, similar complaints were filed by Hermes Centre for Transparency and Digital Human Rights in Italy, Homo Digitalis in Greece, and noyb - the European Center for Digital Rights in Austria.\n\nClearview is a facial recognition company claiming to have built \"the largest known database of 3+ billion facial images\". It uses an \"automated image scraper\" to search the web and collect any images that it detects as containing human faces. All these faces are then run through its proprietary facial software, to build a gigantic biometrics database. Clearview then sells access to this database to private companies and law enforcement authorities.\n\nVarious actions have been launched across the globe against Clearview's practices, in countries with biometrics or data protection regulation. Our European complaints are based on various \"data subject access requests\", as well as PI's technical and legal analyses of Clearview's practices. After various isolated complaints were filed by individuals against Clearview, and isolated enforcement actions taken by the Hamburg data protection authority and the Swedish data protection authority, the complaints seek a coordinated approach across Europe to tackle an inherently cross-border issue. The regulators have 3 months to respond after filing of the complaints.\n\nThe complaints argue that:\n\nThe Regulation (EU) 2016/679 (General Data Protection Regulation) (\"GDPR\") applies to Clearview's collection and biometric processing of faces found online, as these consist in mass processing of European residents' personal data;\n\nClearview processes both \"regular\" personal data (Article 4(1) GDPR) and sensitive or \"special categories\" data (Article 9(1) GDPR);\n\nClearview has no lawful basis for collecting and processing any of this data. In particular, it does not obtain data subjects' consent and such practices cannot fall under its \"legitimate interests\". In addition, the processing of special categories data cannot be considered to be of data that has been \"manifestly made public\" by the data subject (Article 9(2)(e) GDPR);\n\nClearview contravenes a number of other GDPR principles, including the principles of transparency (Article 5(1)(a) GDPR) and purpose limitation (Article 5(1)(b) GDPR);\n\nThe use of Clearview's tool by law enforcement authorities does not fulfil the conditions for law enforcement processing required by the Law Enforcement Directive (2016/680) as transposed in EU member states' national laws. The use of such an invasive, privately developed facial recognition database enabling social media intelligence by law enforcement would not be based on law, nor would it be necessary and proportionate.\n\nThe complaint filed with the ICO in the UK makes the same arguments, relying on the UK GDPR and the Data Protection Act 2018 instead.\n\nClearview's technology and its use further the very harms that European data protection legislation was designed to remedy. PI therefore calls on the regulators to take coordinated enforcement action in order to protect individuals from these highly invasive and dangerous practices.\n\nUpdates\n\nOn 29 November 2021, the UK's ICO announced its provisional intent to impose a potential fine of just over £17 million on Clearview, finding a number of breaches of the UK GDPR. On 23 May 2022, the ICO issued its final decision, imposing a fine of £7,552,800 on the company and ordering it to delete and stop further processing of UK residents' data. Clearview appealed the ICO's decision to the First-Tier (Information Rights) Tribunal, who on 17 October 2023 upheld Clearview's appeal and quashed the ICO's fine. The ICO is seeking permission to appeal, considering that \"the Tribunal incorrectly interpreted the law when finding Clearview’s processing fell outside the reach of UK data protection law on the basis that it provided its services to foreign law enforcement agencies. The Commissioner's view is that Clearview itself was not processing for foreign law enforcement purposes and should not be shielded from the scope of UK law on that basis.\"\n\nOn 16 December 2021, France's CNIL found Clearview's data processing illegal, ordered it to stop this processing and delete data within 2 months. Failure to comply with the order may lead the CNIL to issue a fine.\n\nOn 10 February 2022, Italy's Garante also found Clearview's data processing illegal, and imposed a €20 million (the maximum fine amount under the EU GDPR) fine on the company.\n\nOn 13 July 2022, Greece's Hellenic data protection authority also fined the company €20 million, the highest fine ever imposed by the Greek DPA, and ordered it to delete and stop collecting data of data subjects located in Greece.\n\nOn 20 October 2022, France's CNIL fined the company €20 million as it had failed to comply with the order from 16 December 2021. On 10 May 2023, the CNIL imposed a further penalty fine of €5,200,000 for failing to comply with the 2021 order.\n\nOn 10 May 2023, Austria's DSB found Clearview's use of data illegal, but did not issue a fine nor a general ban (although it said it might do so later on).",
+            "url": "http://privacyinternational.org/legal-action/challenge-against-clearview-ai-europe",
+            "authors": [],
+            "publish_date": null,
+            "keywords": [
+                "protection",
+                "law",
+                "fine",
+                "enforcement",
+                "processing",
+                "clearviews",
+                "uk",
+                "data",
+                "ico",
+                "europe",
+                "ai",
+                "gdpr",
+                "challenge",
+                "clearview"
+            ],
+            "summary": "Clearview then sells access to this database to private companies and law enforcement authorities.\nVarious actions have been launched across the globe against Clearview's practices, in countries with biometrics or data protection regulation.\nAfter various isolated complaints were filed by individuals against Clearview, and isolated enforcement actions taken by the Hamburg data protection authority and the Swedish data protection authority, the complaints seek a coordinated approach across Europe to tackle an inherently cross-border issue.\nThe Commissioner's view is that Clearview itself was not processing for foreign law enforcement purposes and should not be shielded from the scope of UK law on that basis.\"\nOn 16 December 2021, France's CNIL found Clearview's data processing illegal, ordered it to stop this processing and delete data within 2 months.",
+            "metadata": {
+                "source_domain": "privacyinternational.org",
+                "scrape_date": "2024-10-25T12:40:31.653196",
+                "content_type": "activism_content",
+                "extraction_method": "newspaper3k",
+                "content_length": 5544
+            }
+        },
+        {
+            "title": "ACLU v. Clearview AI",
+            "text": "After the parties reached a settlement agreement, on May 11, 2022, the court signed a consent order ending this case. The central provision of the settlement restricts Clearview’s practices not just in Illinois, but across the United States, by permanently banning Clearview from making its faceprint database available to most businesses and other private entities nationwide. The company is also barred from selling access to its database to any entity in Illinois, including state and local police, for five years. Read more about all of the provisions of the binding settlement agreement here. Under the settlement, Clearview must allow Illinois residents to block their facial data from Clearview's massive database: Illinois residents can begin that process here.\n\nLearn more about the Illinois Biometric Information Privacy Act here.\n\nThe lawsuit was filed in Illinois state court in Chicago, after the New York Times revealed in January 2020 that Clearview was building a secretive tracking and surveillance tool using biometric identifiers. Face recognition technology has helped Clearview capture more than three billion faceprints, and counting, from images available online.\n\nClearview has offered access to this database to private companies, wealthy individuals, and federal, state, and local law enforcement agencies. The company claims that, through this enormous database, it can instantaneously identify people with unprecedented accuracy, enabling covert and remote surveillance of Americans on a massive scale.\n\nBIPA requires companies that collect, capture, or obtain an Illinois resident’s biometric identifier — such as a fingerprint, faceprint, or iris scan — to first notify that individual and obtain their written consent. This is because the involuntary capture of biometric identifiers — which cannot be changed — can pose greater risks to an individual’s security, privacy, and safety than the capture of other identifiers, such as names and addresses. And capturing an individual’s faceprint — akin to generating their DNA profile from genetic material unavoidably shed on a water bottle, but unlike the publication or forwarding of a photo — is conduct, not speech, and so is appropriately regulated under the law. Clearview did not comply with BIPA, denying scores of Illinois residents the privacy rights they are due.\n\nThe suit is the first to focus explicitly on the harm that Clearview’s technology will inflict on survivors of domestic violence and sexual assault, undocumented immigrants, communities of color, and members of other vulnerable communities. The group of organizations filing suit have members, clients, and program participants who have been subjected to faceprinting by Clearview without their consent, and who stand to suffer some of the gravest consequences of Clearview’s unprecedented surveillance program.\n\nThe groups are asking the court to order Clearview to delete faceprints gathered from Illinois residents without their consent and cease capturing new faceprints unless they comply with BIPA consent procedures. Until such remedies are implemented, Clearview’s egregious violations of privacy pose a disastrous threat and affront to our rights.",
+            "url": "https://www.aclu.org/cases/aclu-v-clearview-ai",
+            "authors": [],
+            "publish_date": null,
+            "keywords": [
+                "settlement",
+                "privacy",
+                "capture",
+                "biometric",
+                "aclu",
+                "clearviews",
+                "v",
+                "illinois",
+                "consent",
+                "residents",
+                "ai",
+                "clearview",
+                "database"
+            ],
+            "summary": "Under the settlement, Clearview must allow Illinois residents to block their facial data from Clearview's massive database: Illinois residents can begin that process here.\nFace recognition technology has helped Clearview capture more than three billion faceprints, and counting, from images available online.\nClearview has offered access to this database to private companies, wealthy individuals, and federal, state, and local law enforcement agencies.\nClearview did not comply with BIPA, denying scores of Illinois residents the privacy rights they are due.\nThe groups are asking the court to order Clearview to delete faceprints gathered from Illinois residents without their consent and cease capturing new faceprints unless they comply with BIPA consent procedures.",
+            "metadata": {
+                "source_domain": "www.aclu.org",
+                "scrape_date": "2024-10-25T12:40:31.891046",
+                "content_type": "activism_content",
+                "extraction_method": "newspaper3k",
+                "content_length": 3210
+            }
+        }
+    ]
+}
